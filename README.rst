@@ -1,28 +1,23 @@
 # RFronius
 
-An R client library for the Fronius API using *library(httr)
+An R client library for the Fronius API
 
-Installing :code:`httr`. for HTTP requests.
+First we need to install :code:`httr`. for HTTP requests.
 
 .. code-block:: R
 
   install.packages('httr')
 
-Find the script "apisolarweb.R" in this branch and run it
+Then download the "apisolarweb.R" script in this branch and run it. This set up a series of function access to the Fronius API. 
 
 .. code-block:: R
 
   source('apisolarweb.R')
 
-This set up a series of function access to the Fronius API
+More information here:
+ (https://api.solarweb.com)[https://api.solarweb.com/thirdparty/swagger/ui/index]
+
 
 Any help would be great!
 
-
-.. code-block:: R
-
-  GetRadiationEstimatedActuals()
-  GetRadiationForecasts()
-  GetPVPowerForecasts()
-  GetPVPowerEstimatedActuals()
 
