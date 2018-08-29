@@ -15,8 +15,8 @@ Then download the "apisolarweb.R" script in this branch and run it. This set up 
   source('apisolarweb.R')
 
 More information here: 
-- *https://api.solarweb.com
-- *https://api.solarweb.com/thirdparty/swagger/ui/index
+  1) https://api.solarweb.com
+  2) https://api.solarweb.com/thirdparty/swagger/ui/index
 
 
 Any help would be great!
