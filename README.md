@@ -15,3 +15,12 @@ Installing :code:`httr`. for HTTP requests.
 This set up a series of function access to the Fronius API
 
 Any help would be great!
+
+
+.. code-block:: R
+
+  GetRadiationEstimatedActuals()
+  GetRadiationForecasts()
+  GetPVPowerForecasts()
+  GetPVPowerEstimatedActuals()
+
