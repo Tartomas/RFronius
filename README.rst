@@ -8,6 +8,8 @@ Installing :code:`httr`. for HTTP requests.
 
   install.packages('httr')
 
+Find the script "apisolarweb.R" in this branch and run it
+
 .. code-block:: R
 
   source('apisolarweb.R')
